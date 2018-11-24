@@ -1,5 +1,5 @@
 {
-  "name": "img-batch-cli",
+  "name": "cli-img-batch",
   "version": "1.0.0",
   "description": "Batch manipulate images",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "bin": {
-    "img-batch-cli": "bin/img-batch-cli"
+    "cli-img-batch": "bin/cli-img-batch"
   },
   "author": "Philip Caleja <pcaleja@gmail.com>",
   "license": "MIT",
