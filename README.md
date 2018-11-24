@@ -1,6 +1,6 @@
 # cli-img-batch
 
-CLI tool batch resize images in a directory.
+CLI tool to batch resize images in a directory.
 
 Currently not published in `npm` but you can try it out by doing the following steps
 
