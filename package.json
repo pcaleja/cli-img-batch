@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "del": "^3.0.0",
-    "minimist": "^1.2.6",
+    "minimist": "^1.2.7",
     "sharp": "^0.30.5"
   },
   "devDependencies": {
